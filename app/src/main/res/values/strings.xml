@@ -8,5 +8,11 @@
     <string name="SecondItem">Second Item</string>
     <string name="AddItemString">Add Item</string>
     <string name="AddItemHereString">Add Item Here</string>
+    <string name="list_file_name">todo.txt</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="edit_screen_purpose">Edit Item Below:</string>
+    <string name="saveTxt">Save</string>
+    <string name="itemPositionTxt">itemPosition</string>
+    <string name="listItemTxt">listItem</string>
 
 </resources>
